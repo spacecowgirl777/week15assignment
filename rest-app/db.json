@@ -1,0 +1,892 @@
+{
+  "favoriteAlbums": [
+    {
+      "id": 1,
+      "songs": [
+        "Your Selfish Ways, Morning Light, Just Like You, One Way or Another, Folie, No-One in the World, Clouds at My Feet, Summer Rain, Ancient Hometown, The Girl With the Fairytale Dream, All Your Own Way, Juke Box Heart, The Daydream Girl from Sealand, I Am the Murderer, Some Love Will Remain Unsaid, Shadow Play, On the Horizon, Just After Sunset"
+      ],
+      "albumTitle": "Morning Light",
+      "artist": "Locust"
+    },
+    {
+      "id": 2,
+      "songs": [
+        "Angel, Risingson, Teardrop, Inertia Creeps, Exchange, Dissolved girl, Man Next Door, Black Milk, Mezzanine, Group Four, (Exchange"
+      ],
+      "albumTitle": "Mezzanine",
+      "artist": "Massive Attack"
+    },
+    {
+      "id": 3,
+      "songs": [
+        "Girls On The Roof, Jacket Switch, S.I.T.W.S.M., Nice To Meet You, Afternoon, Briefcase Found, Heels, Girls In Pears, French Maid, W.I.G.T.S."
+      ],
+      "albumTitle": "S.Maharba",
+      "artist": "S.Maharba"
+    },
+    {
+      "id": 4,
+      "songs": [
+        "Moving, The Saxophone Song, Strange Phenomena, Kite, The Man with the Child in His Eyes, Wuthering Heights, James and the Cold Gun, Feel It, Oh to Be in Love, L'Amour Looks Something Like You, Them Heavy People, Room for the Life, The Kick Inside "
+      ],
+      "albumTitle": "The Kick Inside",
+      "artist": "Kate Bush"
+    },
+    {
+      "id": 5,
+      "songs": [
+        "ride the dragon, honda, meta angel, tears in the club, oh my love, pamplemousse, caprisongs interlude, lightbeamers, papi bones, which way, jealousy, careless, minds of men, track girl interlude, darjeeling, christi interlude, thank you song"
+      ],
+      "albumTitle": "CAPRISONGS",
+      "artist": "FKA Twigs"
+    },
+    {
+      "id": 6,
+      "songs": [
+        "Playground Love, Clouds Up, Bathroom Girl, Cemetary Party, Dark Messages, The Word Hurricane, Dirty Trip, Highschool Lover, Afternoon Sister, Ghost Song, Empty House, Dead Bodies, Suicide Underground"
+      ],
+      "albumTitle": "The Virgin Suicides",
+      "artist": "Air"
+    },
+    {
+      "id": 7,
+      "songs": [
+        "Keep on Mixing, Alien FM, Koh-I-Noor, Buy to Return, Tops and Bottoms, Deseo, Taste in Movies, Jaipur, Set Me Free"
+      ],
+      "albumTitle": "Salt",
+      "artist": "Mr.Twin Sister"
+    },
+    {
+      "id": 8,
+      "songs": [
+        "On The Bound, To Your Love, Limp, Love ridden, Paper Bag, A Mistake, Fast As You Can, The Way Things Are, Get Gone, I Know"
+      ],
+      "albumTitle": "When The Pawn...",
+      "artist": "Fiona Apple"
+    },
+    {
+      "id": 9,
+      "songs": [
+        "Velvet 4 Sale, Rage of Plastics, M.A.H., Why Do I Lose My Voice When I Have Something to Say, Rosebud, Incidental Boogie, L-Over, Pearly Gates, Poem, Traviata, Time"
+      ],
+      "albumTitle": "In A Poem Unlimited",
+      "artist": "U.S. Girls"
+    },
+    {
+      "id": 10,
+      "songs": [
+        "Cherry-coloured Funk, Pitch the Baby, Iceblink Luck, Fifty-fifty Clown, Heaven or Las Vegas, I Wear Your Ring, Fotzepolitic, Wolf in the Breast, Road.River and Rail, Frou-frou Foxes in Midsummer Fires"
+      ],
+      "albumTitle": "Heaven or Las Vegas",
+      "artist": "Cocteau Twins"
+    },
+    {
+      "id": 11,
+      "songs": [
+        "I Love You.Honeybear, ChateauLobby #4 (in C for Two Virgins), True Affection, The Night Josh TIllman Came To Our Apt., When You're Smiling And Astride Me, Nothing Good Ever Happens At The Goddamn Thirsty Crow, Strange Encounter, The Ideal Husband, Bored In The USA, Holy Shit, I Went To The Store One Day"
+      ],
+      "albumTitle": "I Love You, Honeybear",
+      "artist": "Father John Misty"
+    },
+    {
+      "id": 12,
+      "songs": [
+        "She Won't Go Away, I Know You, Is It Too Much To Ask, Alone Again, It Doesn't Work Like That, Remember When, It's Not A Sad Thing, Say It Now, Wrong People, What's The Point"
+      ],
+      "albumTitle": "Faye Webster",
+      "artist": "Faye Webster"
+    }
+  ],
+  "potentialFavoriteAlbums": [
+    {
+      "id": 1,
+      "songs": [
+        "Text Book, Blue Banisters, Arcadia, Interlude-The Trio, Black Bathing Suit, If You Lie Down With Me, Beautiful, Violets for Roses, Dealer, Thunder, Wildflower Wildfire, Nectar Of The Gods, Living Legend, Cherry Blossom, Sweet Carolina"
+      ],
+      "albumTitle": "Blue Banisters",
+      "artist": "Lana Del Rey"
+    },
+    {
+      "id": 2,
+      "songs": [
+        "INTRO, FOREVER(2012), FLEX YOUR GOLD, IDRANKUPALLTHECLOUDS, ESCORTS, REMYND, VISIONS OF US, SATISFY YOUR SOUL, SIMULATION, WHITE(2012), TEARS, PURE INFINITE, NORMALIMMORTAL, EXPRESS YOUR LOVE, NOT THAT I'M ANYWHERE"
+      ],
+      "albumTitle": "BLACK PLEASURE 2012",
+      "artist": "Cities Aviv"
+    },
+    {
+      "id": 3,
+      "songs": [
+        "Absolutely Cuckoo, I Don't Believe in the Sun, All My Little Words, A Chicken With Its Head Cut Off, Reno Dakota, I Don't Want to Get Over You, Come Back From San Francisco, The Luckiest Guy on the Lower East Side, Let's Pretend We're Bunny Rabbits, The Cactus Where Your Heart Should Be, I Think I Need a New Heart, The Book of Love, Fido. Your Leash Is Too Long, How Fucking Romantic, The One You Really Love, Punk Love, Parades Go By, Boa Constrictor, A Pretty GIrl Is Like, My Sentimental Melody, Nothing Matters When We're Dancing, Sweet-Lovin' Man, The Things We Did and Didn't Do, Roses, Love Is Like Jazz, When My Boy Walks Down the Street, Time Enough for Rocking When We're Old, Very Funny, Grand Canyon, No One Will Ever Love You, If You Don't Cry, You're My Only Home, (Crazy for You But) Not That Crazy, My Only Friend, Promises of Eternity, World Love, Washington. D.C., Long-Forgotten Fairytale, Kiss Me Like You Mean It, Papa Was a Rodeo, Epitaph for My Heart, Asleep and Dreamoing, The Sun Goes Down and the World Gues Dancing, The Way You Say Good-Night, Abigail.Beele of Kilronan, I Shatter, Underwear, It's a Crime, Busby Berkely Dreams, I'm Sorry I Love You, Acousutic Guitar, The Death of Ferdinand de Saussure, Love in the Shadows, Bitter Tears, Wi'Nae Wee Bairn Ye'll Me Beget, Yeah! Oh. Yeah!, Experimental Music Love, Meaningless, Love is Like a Bottle of Gin, Queen of the Savages, Blue You, I Can't Touch You Anymore, Two Kinds of People, How to Say Goodbye, The Nght You Can't Remember, For We Are the King of the Boudoir, Strange Eyes, Xylophone Track, Zebra"
+      ],
+      "albumTitle": "69 Love Songs",
+      "artist": "The Microphones"
+    },
+    {
+      "id": 4,
+      "songs": [
+        "Ode To My Family, I Can't Be With You, Twenty One, Zombie, Empty, Everything I Said, The Icicle Melts, Disappointment, Ridiculous Thoughts, Dreaming My Dreams, Yeats' Grave, Daffodil Lament, No Need To Argue, Away, I Don't Need, (They Long To Be)Close To You, So Cold In Ireland"
+      ],
+      "albumTitle": "No Need To Argue",
+      "artist": "The Cranberries"
+    },
+    {
+      "id": 5,
+      "songs": [
+        "Colpo Rovente, Kintabú, Black Flower, Identikit, LSD (Red Hot), Eros, Fuoco, Easy Dreamer (Choir), Chinatown Drugs, Endless Love, Colpo Rovente (Red Hot), Mexican Dream, Acapulco, Big Chase, Occhio dell'uragano"
+      ],
+      "albumTitle": "Colpo Rovente",
+      "artist": "Piero Piccioni"
+    },
+    {
+      "id": 6,
+      "songs": [
+        "Quella chiara notte d'ottobre, Se tu..., We'll Keep Trying, New Girl, Ornella, Andata e ritorno, Sei mesi di felicità,L'amore dice ciao, Girandole, Surrender"
+      ],
+      "albumTitle": "Conversazioni",
+      "artist": "Armando Trovajoli"
+    },
+    {
+      "id": 7,
+      "songs": [
+        "Everywhere, Cloudless, Jewel, Far Away, Adrift, Clear, Sun And Sky, And Ever, Golden, Rainbows, Shine Like Stars"
+      ],
+      "albumTitle": "Forever",
+      "artist": "Cranes"
+    },
+    {
+      "id": 8,
+      "songs": [
+        "Introvert, Woman, Two Worlds Apart, I Love You. I Hate You, Little Q.Pt.1-Interlude, Little Q.Pt.2, Gems-Interlude, Speed, Standing Ovation, I See You, The Rapper That Came To Tea-Interlude, Rollin Stone, Protect My Energy, Never Make Promises-Interlude, Point and Kill, Fear No Man, The Garden-Interlude, How Did You Get Here, Miss Understood"
+      ],
+      "albumTitle": "Sometimes I Might Be Introvert",
+      "artist": "Little Simz"
+    },
+    {
+      "id": 9,
+      "songs": [
+        "Violet, Miss World, Plump, Asking For It, Jennifer's Body, Doll Parts, Credit In The Straight World, Softer.Softest, She Walks On Me, I Think That I Would Die, Gutless, Rock Star"
+      ],
+      "albumTitle": "Live Through This",
+      "artist": "Hole"
+    },
+    {
+      "id": 10,
+      "songs": [
+        "Ejaculated Poisoned Wrench, Columns, Grave Within a Grave, Opposite Lanes, Achilles Foot, Collapse and Appear, Leonard's Lake, Warmest Flag, Persistence, Drain Counter, Slugs, Compliance, Intent and Purulent Discharge"
+      ],
+      "albumTitle": "Oblivion Access",
+      "artist": "Lil Ugly Mane"
+    },
+    {
+      "id": 11,
+      "songs": [
+        "painty paint pots, romantico, rainy poppy field, b.b.v.u.(give me give me), planc-tone, through, la pa ti ta, honeydew blue, frozen, everybody knows '98, here she comes now"
+      ],
+      "albumTitle": "Romantico",
+      "artist": "800 Cherries"
+    },
+    {
+      "id": 12,
+      "songs": [
+        "A Lot's Gonna Chnage, Andromeda, Everyday, Something to Believe, Titanic Rising, Movies, Mirror Forever, Wild Time, Picture Me Better, Nearer to Thee"
+      ],
+      "albumTitle": "Titanic Rising",
+      "artist": "Weyes Blood"
+    },
+    {
+      "id": 13,
+      "songs": [
+        "Reena, Incinerate, Do You Believe In Rapture?, Sleepin' Around, What A Waste, Jams Runs Free, Rats, Turquoise Boy, Lights Out, The Neutral, Pink Steam, Or"
+      ],
+      "albumTitle": "Rather Ripped",
+      "artist": "Sonic Youth"
+    },
+    {
+      "id": 14,
+      "songs": [
+        "I Love Your Lovin' Ways, Four Women, What More Can I Say?, Lilac Wine, That's All I Ask, Break Down And Let It All Out, Why Keep On Breaking My Heart, Wild Is The Wind, Black Is The Color Of My True Love's Hair, If I Should Lose You, Either Way I Lose"
+      ],
+      "albumTitle": "Wild Is The Wind",
+      "artist": "Nina Simone"
+    },
+    {
+      "id": 15,
+      "songs": [
+        "Re-Hash, 5/4, Tomorrow Comes Today, New Genius (Brother), Clint Eastwood, Mans Research(Clapper), Punk, Sound Check(Gravity), Double Bass, Rock the House, 19-2000, Latin Simone (Que Pasa Contigo), Starshine, Slow Country, M1 A1, Dracula, Left Hand Suzuki Method, Clint Eastwood"
+      ],
+      "albumTitle": "Gorillaz",
+      "artist": "Gorillaz"
+    },
+    {
+      "id": 16,
+      "songs": [
+        "Intro, Trash, You thought what you saw was it, Hungry, In A Grave, Taxi Hell, Just A Slither, Halogen, Stress, My Whole Family, I'm On it, Spit, Cyba Slam fif world dance party, Everything Hate (here), Two Hands, Why you lying, Proud Boys"
+      ],
+      "albumTitle": "Corpus I",
+      "artist": "Show Me The Body"
+    },
+    {
+      "id": 17,
+      "songs": [
+        "Street Spirit(Fade Out), Talk Show Host, Bishop's Robes, Banana Co, Molasses"
+      ],
+      "albumTitle": "Street Spirit(Fade Out)",
+      "artist": "Radiohead"
+    },
+    {
+      "id": 18,
+      "songs": [
+        "Faith In Nothing Except Salvation, Economy of Freedom, Honesty, Noid, Licking An Orchid, Lifetime, Hope In Suffering (Escaping Oblivion & Overcomin Powerlessness, Recognizing The Enemy, All The Love We Have Now, Let The Lioness In You Flow Freely"
+      ],
+      "albumTitle": "Safe In The Hands of Love",
+      "artist": "Yves Tumor"
+    },
+    {
+      "id": 19,
+      "songs": [
+        "Sexy Chick, Gettin' Over You, Memories, Who's That Chick?, When Love Takes Over, Missing You, On the Dancefloor"
+      ],
+      "albumTitle": "One More Love",
+      "artist": "David Guetta"
+    },
+    {
+      "id": 20,
+      "songs": [
+        "Hexagram, Needles and Pins, Minerva, Good Morning Beautiful, Deathblow, When Girls Telephone Boys, Battle-axe, Lucky You, Bloody Cape, Anniversary of an Uninteresting Event, Moana"
+      ],
+      "albumTitle": "Deftones",
+      "artist": "Deftones"
+    },
+    {
+      "id": 21,
+      "songs": [
+        "Sketch Artist, Air Bnb, Paprika Pony, Murdered Out, Don't Play It, Cookie Butter, Hungry Baby, Earthquake, Get Yr Life Back"
+      ],
+      "albumTitle": "No Home Record",
+      "artist": "Kim Gordon"
+    },
+    {
+      "id": 22,
+      "songs": [
+        "Paprika, Be Sweet, Kokomo. IN, Slide Tackle, Posing In Bondage, Sit, Savage Good Boy, In Hell, Tactics, Posing For Cars"
+      ],
+      "albumTitle": "Jubilee",
+      "artist": "Japanese Breakfst"
+    },
+    {
+      "id": 23,
+      "songs": [
+        "Honeymoon, Music To Watch Boys To, Terrence Loves You, God Knows I Tried, High By The Beach, Freak, Art Deco, Burnt Norton-Interlude, Religion, Salvatore, The Blackest Day, 24, Swan Song, Don't Let Me Be Misunderstood"
+      ],
+      "albumTitle": "Honeymoon",
+      "artist": "Lana Dey Rey"
+    },
+    {
+      "id": 24,
+      "songs": [
+        "Melt Session#1, Walkin, Worst Comes To Worst, John Wayne, The Last, Mental, Troubles, Ain't No Way, X-Wing, Angelz, The Smell Of Death, Sanjuro, Zatoichi, The Ills"
+      ],
+      "albumTitle": "Melt My Eyez See Your Future",
+      "artist": "Denzel Curry"
+    },
+    {
+      "id": 25,
+      "songs": [
+        "Intro, Feather, Wax Werk, Soma Centre, Empty Hands, Looking Glass, Morning Chorus, Visions of Light, The Gift, January"
+      ],
+      "albumTitle": "Visions of Light",
+      "artist": "Ishmael Ensemble"
+    },
+    {
+      "id": 26,
+      "songs": [
+        "Contre Le Sexism, Sunday, Female Mechanic Now On Duty, Wildflower Soul, Hoarfroast, French Tickler, Hits Of Sunshine (For Allen Ginsberg), Karen Koltrane, The Ineffable Me, Snare.Girl, Heather Angel"
+      ],
+      "albumTitle": "A Thousand Leaves",
+      "artist": "Sonic Youth"
+    },
+    {
+      "id": 27,
+      "songs": [
+        "Murders in Mayfield, Blessed TImes, Mariota, Vogue cover, Margiel Split Toes, Draymond, Peri Peri, RIGHT NOW, Westheimer, Bash money, Claires back, Spoonz, 716 Mile"
+      ],
+      "albumTitle": "Hitler Wears Hermes 8",
+      "artist": "Westside Gunn"
+    },
+    {
+      "id": 28,
+      "songs": [
+        "One More Time, Aeronydamic, Digital Love, Harder.Better.Faster.Stronger, Crescendolls, Nightvision, Superheroes, High Life, Something About Us, Voyager, Veridis Quo, Short Circuit, Face to Face, Too Long"
+      ],
+      "albumTitle": "Discovery",
+      "artist": "Daft Punk"
+    },
+    {
+      "id": 29,
+      "songs": [
+        "Gumbo'!4 tha Folks. Hold On, Wayans Bros., Roscoe'!, Fk U Mean/Hold me Down, Bussin'(Cold)< Pink & Green. White & Gold, BACK'!, Doin Tew Much.(In My Mama Name), 4sho'7, Living Proof(Family), Scurrrrd, SMILE(wit yo Gold), Call tha Bro(Tapped In), BRAVO'!, Voicemails Uptown, Big Ole, Ing hair dnt care, Play On'!Inshallah"
+      ],
+      "albumTitle": "GUMBO'!",
+      "artist": "Pink Siifu"
+    },
+    {
+      "id": 30,
+      "songs": [
+        "Dust, I'm Losing Track of Time, Kanye Rant, Outside, Rainjacket, Sirens, hey! cool bike, Sudyumna, Pad Song, keep it down!, Lucid Memory, $upermarket california roll"
+      ],
+      "albumTitle": "I've Seen Better Days",
+      "artist": "amaii"
+    },
+    {
+      "id": 31,
+      "songs": [
+        "Lay All Your Love On Me, Under Attack, Gimme! Gimme! Gimme!(A Man After Midnight), SOS<, Money.Money.Money"
+      ],
+      "albumTitle": "AAAH!BBA",
+      "artist": "Brian David Gilbert, 2winz^2"
+    },
+    {
+      "id": 32,
+      "songs": [
+        "The Homeles Wanderer, The Last Tears of a Deceased, A Young Girl's Complaint, The Mad Man's Laughter, Presentiment, Mother's Love, Ballad of the Spirits, The Song of the Sea, Homesickness.Pt.1, Golgotha, The Jordan River Song, The Garden of Gethesemanie, Homesickness.Pt.2, The Story of the Wind, Evening Breeze, Tenkou Why Feel Sorry"
+      ],
+      "albumTitle": "Ethiopiques, vol 21",
+      "artist": "Tsegue-Maryam Guebrou"
+    },
+    {
+      "id": 33,
+      "songs": [
+        "Starfire 500, Gacked On Anger, Cup Of Destiny, GFY, Angel, Monsoon Rock, Control, Got You, Punisha, Shake Ya, Some Mutts(Can't Be Muzzled)"
+      ],
+      "albumTitle": "Amyl and The Sniffers",
+      "artist": "Amyl and The Sniffers"
+    },
+    {
+      "id": 34,
+      "songs": [
+        "Belleville, Trapped in the Grasp of a Memory, A Serpent's Touch, By the Grave, In the Walls, Guided by the Moon, Mistakes Like Fractures, Forget Your Name, Road 23, ...And Still I Wander South, Denied by Fate, Misguided Son"
+      ],
+      "albumTitle": "A Different Shade of Blue ",
+      "artist": "Knocked Loose"
+    },
+    {
+      "id": 35,
+      "songs": [
+        "Radio Silence, Points, Love Me In Whatever Way, Timeless, f.o.r.e.v.e.r., Put That Away And Talk To Me, I Hope My Life-1-800 Mix, Waves Know Shores, My Willing Heart, Choose Me, I need A Forest Fire, Noise Above Our Heads, The Colour In Anything"
+      ],
+      "albumTitle": "The Colour In Anything",
+      "artist": "James Blake"
+    },
+    {
+      "id": 36,
+      "songs": [
+        "Someone New, Truth Nugget, Dog, Fruit Pit, Pale, Comfort.Edge, The Walk Home, Seven Hours, Smoking at the Gas Station, Lylz, Mid Practice, Clown Neutral, Fill the Rooms"
+      ],
+      "albumTitle": "Someone New",
+      "artist": "Helena Deland"
+    }
+  ],
+  "toListenTo": [
+    {
+      "id": 1,
+      "song": "Trust in Me Baby",
+      "artist": "The Soul Superiors"
+    },
+    {
+      "id": 2,
+      "song": "Eyez on Em",
+      "artist": "ICYTWAT"
+    },
+    {
+      "id": 3,
+      "song": "The Elephant Man's Bones",
+      "artist": "Roc Marciano, The Alchemist"
+    },
+    {
+      "id": 4,
+      "song": "Flawlëss",
+      "artist": "Yeat, Lil Uzi Vert"
+    },
+    {
+      "id": 5,
+      "song": "LazyEaterBetsOnHerLikeness",
+      "artist": "Liv.e"
+    },
+    {
+      "id": 6,
+      "song": "I'm Sorry We Lied ",
+      "artist": "Blood Orange"
+    },
+    {
+      "id": 7,
+      "song": "Yellow Eyes ",
+      "artist": "The Gun Club"
+    },
+    {
+      "id": 8,
+      "song": "Walking Ferragamo",
+      "artist": "Woesum, Yung Lean"
+    },
+    {
+      "id": 9,
+      "song": "Workeatsleep",
+      "artist": "A Great Big Pile of Leaves"
+    },
+    {
+      "id": 10,
+      "song": "Running Away Into You ",
+      "artist": "John Frusciante"
+    },
+    {
+      "id": 11,
+      "song": "Night Steps",
+      "artist": "Tara Clerkin Trio"
+    },
+    {
+      "id": 12,
+      "song": "Lounge Thoughts ",
+      "artist": "Enjoy"
+    },
+    {
+      "id": 13,
+      "song": "Cover Me(Slowly)",
+      "artist": "Deerhunter"
+    },
+    {
+      "id": 14,
+      "song": "The Chuckler",
+      "artist": "Protomartyr"
+    },
+    {
+      "id": 15,
+      "song": "Wharf(iii)",
+      "artist": "Horsey"
+    },
+    {
+      "id": 16,
+      "song": "Rosemary",
+      "artist": "Deftones"
+    },
+    {
+      "id": 17,
+      "song": "Blue",
+      "artist": "Beyonce"
+    },
+    {
+      "id": 18,
+      "song": "The Fever(Aye Aye)",
+      "artist": "Death Grips"
+    },
+    {
+      "id": 19,
+      "song": "One More Hour",
+      "artist": "Tame Impala"
+    },
+    {
+      "id": 20,
+      "song": "Strangers",
+      "artist": "Danger Mouse"
+    },
+    {
+      "id": 21,
+      "song": "The Elephant Man's Bones",
+      "artist": "Roc Marciano, The Alchemist"
+    },
+    {
+      "id": 22,
+      "song": "An Angel of Great and Terrible Light",
+      "artist": "Uboa"
+    },
+    {
+      "id": 23,
+      "song": "Revolving Doors",
+      "artist": "Gorillaz"
+    },
+    {
+      "id": 24,
+      "song": "Punch Drunk Love",
+      "artist": "Teams,Star Slinger"
+    },
+    {
+      "id": 25,
+      "song": "VCR",
+      "artist": "Tyler.The Creator"
+    },
+    {
+      "id": 26,
+      "song": "Until the Sun Explodes",
+      "artist": "The Pains Of Being Pure At Heart"
+    },
+    {
+      "id": 27,
+      "song": "The Model",
+      "artist": "Belle and Sebastian"
+    },
+    {
+      "id": 28,
+      "song": "Electronic Renaissance",
+      "artist": "Belle and Sebastian"
+    },
+    {
+      "id": 29,
+      "song": "You Don't Send Me",
+      "artist": "Belle and Sebastian"
+    },
+    {
+      "id": 30,
+      "song": "Love Ridden",
+      "artist": "Fiona Apple"
+    },
+    {
+      "id": 31,
+      "song": "VIRGO'S GROOVE",
+      "artist": "Junglepussy"
+    },
+    {
+      "id": 32,
+      "song": "Caught Their Eyes",
+      "artist": "JAY-Z, Frank Ocean"
+    },
+    {
+      "id": 33,
+      "song": "Modern Woman",
+      "artist": "Tennis"
+    },
+    {
+      "id": 34,
+      "song": "Good House",
+      "artist": "Deakin"
+    },
+    {
+      "id": 35,
+      "song": "Never Til Now",
+      "artist": "Ashley Cooke"
+    },
+    {
+      "id": 36,
+      "song": "Glow",
+      "artist": "Kelis"
+    },
+    {
+      "id": 37,
+      "song": "Caught In Time, So Far Away",
+      "artist": "You'll Never Get to Heaven"
+    },
+    {
+      "id": 38,
+      "song": "Never Will Know",
+      "artist": "McKinley Dixon"
+    },
+    {
+      "id": 39,
+      "song": "Dog",
+      "artist": "Helena Deland"
+    },
+    {
+      "id": 40,
+      "song": "Someone New",
+      "artist": "Helena Deland"
+    },
+    {
+      "id": 41,
+      "song": "Comfort, Edge",
+      "artist": "Helena Deland"
+    },
+    {
+      "id": 42,
+      "song": "Some Day Soon",
+      "artist": "Alexi Murdoch"
+    },
+    {
+      "id": 43,
+      "song": "Smoke Two Joints",
+      "artist": "Sublime"
+    },
+    {
+      "id": 44,
+      "song": "Home",
+      "artist": "Thrilliam Angels"
+    },
+    {
+      "id": 45,
+      "song": "lil horn's theme",
+      "artist": "Miguel Angeles"
+    },
+    {
+      "id": 46,
+      "song": "With No Fear",
+      "artist": "Clarence Clarity"
+    },
+    {
+      "id": 47,
+      "song": "The Cute",
+      "artist": "Clarence Clarity"
+    },
+    {
+      "id": 48,
+      "song": "DEAFENING RED",
+      "artist": "Clarence Clarity"
+    },
+    {
+      "id": 49,
+      "song": "Leave Earth",
+      "artist": "Clarence Clarity"
+    },
+    {
+      "id": 50,
+      "song": "No Downtime",
+      "artist": "Ka"
+    },
+    {
+      "id": 51,
+      "song": "Cherry Pit",
+      "artist": "Luna Li"
+    },
+    {
+      "id": 52,
+      "song": "Flower(In Full Bloom",
+      "artist": "Luna Li"
+    },
+    {
+      "id": 53,
+      "song": "Orange Juice",
+      "artist": "Rozie Ramati"
+    },
+    {
+      "id": 54,
+      "song": "No Love",
+      "artist": "Death Grips"
+    },
+    {
+      "id": 55,
+      "song": "In Spite of Ourselves",
+      "artist": "Viagra Boys"
+    },
+    {
+      "id": 56,
+      "song": "Exist for Love",
+      "artist": "AURORA"
+    },
+    {
+      "id": 57,
+      "song": "Never Could Have Been Worse",
+      "artist": "Everything But The Girl"
+    },
+    {
+      "id": 58,
+      "song": "My Room is White",
+      "artist": "Mia Doi Todd"
+    },
+    {
+      "id": 59,
+      "song": "When I See You Again",
+      "artist": "Chloe Flower"
+    },
+    {
+      "id": 60,
+      "song": "Minim",
+      "artist": "Johann Sebastian Bach"
+    },
+    {
+      "id": 61,
+      "song": "Do You Want To",
+      "artist": "Franz Ferdinand"
+    },
+    {
+      "id": 62,
+      "song": "For You",
+      "artist": "Sharon Van Etten"
+    },
+    {
+      "id": 63,
+      "song": "Love That Burns",
+      "artist": "Fleetwood Mac"
+    },
+    {
+      "id": 64,
+      "song": "The Way U Make Me Feel",
+      "artist": "Black Eyed Peas"
+    },
+    {
+      "id": 65,
+      "song": "Head High",
+      "artist": "Joey Bada$$"
+    },
+    {
+      "id": 66,
+      "song": "You.at the End",
+      "artist": "Lafawndah"
+    },
+    {
+      "id": 67,
+      "song": "KKMJ",
+      "artist": "Sweet Trip"
+    },
+    {
+      "id": 68,
+      "song": "Stay",
+      "artist": "Narrow Head"
+    },
+    {
+      "id": 69,
+      "song": "Ultra Facial!",
+      "artist": "James K"
+    },
+    {
+      "id": 70,
+      "song": "Bring Me to Silence",
+      "artist": "Fievel Is Glauque"
+    },
+    {
+      "id": 71,
+      "song": "Weight",
+      "artist": "LEYA"
+    },
+    {
+      "id": 72,
+      "song": "Snow is Falling in Manhattan",
+      "artist": "Purple Mountains"
+    },
+    {
+      "id": 73,
+      "song": "The Night I Saved Peteer Ustinov",
+      "artist": "Lauren Christy"
+    },
+    {
+      "id": 74,
+      "song": "Running Away",
+      "artist": "VANO 3000"
+    },
+    {
+      "id": 75,
+      "song": "Song Book: The Man I Love.Slow and in singing style",
+      "artist": "George Gershwin"
+    },
+    {
+      "id": 76,
+      "song": "Last Night",
+      "artist": "Lush"
+    },
+    {
+      "id": 77,
+      "song": "Casualty",
+      "artist": "Snake River Conspiracy"
+    },
+    {
+      "id": 78,
+      "song": "Summer Kisses.Winter Tears",
+      "artist": "Elvis Presley"
+    },
+    {
+      "id": 79,
+      "song": "Waiting For You",
+      "artist": "Bent"
+    },
+    {
+      "id": 80,
+      "song": "Now I Must Remember",
+      "artist": "Bent"
+    },
+    {
+      "id": 81,
+      "song": "Eden",
+      "artist": "Hooverphonic"
+    },
+    {
+      "id": 82,
+      "song": "The World Is Full of Strangers",
+      "artist": "Camera Obscura"
+    },
+    {
+      "id": 83,
+      "song": "Love You to Death",
+      "artist": "Type O Negative"
+    },
+    {
+      "id": 84,
+      "song": "Been Use Ta",
+      "artist": "DJ Shadow"
+    },
+    {
+      "id": 85,
+      "song": "Static Gravity",
+      "artist": "Chrome"
+    },
+    {
+      "id": 86,
+      "song": "Not Much Of A Life",
+      "artist": "SALEM"
+    },
+    {
+      "id": 87,
+      "song": "In Need of Repair",
+      "artist": "Band of Horses"
+    },
+    {
+      "id": 88,
+      "song": "I'm So Sick",
+      "artist": "Flyleaf"
+    },
+    {
+      "id": 89,
+      "song": "The Sensual Woman",
+      "artist": "The Herbaliser"
+    },
+    {
+      "id": 90,
+      "song": "I Just Don't Think I'll Ever Get Over You",
+      "artist": "Colin Hay"
+    },
+    {
+      "id": 91,
+      "song": "Viens",
+      "artist": "Françoise Hardy"
+    },
+    {
+      "id": 92,
+      "song": "I Can't Kick This Feeling When It Hits",
+      "artist": "Moodymann"
+    },
+    {
+      "id": 93,
+      "song": "Is There Someone Else?",
+      "artist": "The Weeknd"
+    },
+    {
+      "id": 94,
+      "song": "Main Attraction",
+      "artist": "Junglepussy "
+    },
+    {
+      "id": 95,
+      "song": "Ex-Boyfriend Beat",
+      "artist": "Skinned Teen"
+    },
+    {
+      "id": 96,
+      "song": "You Always Hurt The One You Love",
+      "artist": "The Mill Brothers"
+    },
+    {
+      "id": 97,
+      "song": "Fate Is...",
+      "artist": "Wednesday"
+    },
+    {
+      "id": 98,
+      "song": "Drifting Out",
+      "artist": "Little Dragon "
+    },
+    {
+      "id": 99,
+      "song": "Strange Young Girls",
+      "artist": "The Mamas & The Papas"
+    },
+    {
+      "song": "sample song",
+      "artist": "sample artist",
+      "id": 101
+    }
+  ]
+}

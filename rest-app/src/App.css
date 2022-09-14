@@ -1,0 +1,29 @@
+* {
+    text-align:center;
+    color:purple;
+    background:white;
+    border-radius:11px;
+    margin:11px;
+   
+}
+
+ul {
+    list-style:none;
+}
+
+li {
+    border-style:solid;
+    border-color:white;
+}
+
+li:hover {
+    color:white;
+    background:darkslateblue;
+
+} 
+
+input {
+    border-color:purple;
+}
+
+
